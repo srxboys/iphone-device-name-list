@@ -79,5 +79,5 @@ iPad列表
 
 
 
-如果你有想说的可以 [issues I](https://github.com/srxboys/RXExtenstion/issues/new) 。
+如果你有想说的可以 [issues I](https://github.com/srxboys/iphoneDevice_List/issues) 。
 :sweat_smile::sweat_smile::sweat_smile::sweat_smile::sweat_smile:
