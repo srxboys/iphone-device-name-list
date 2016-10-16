@@ -7,6 +7,23 @@
 
 -
 
+#### iOS 获取设备名
+
+```objc
+    //导入系统库
+    #import <sys/utsname.h> // struct utsname systemInfo;
+    
+    //获取 设备名（device_name）
+    - (NSString*) getDeviceName
+    {
+        struct utsname systemInfo;
+        uname(&systemInfo);
+        return  [NSString stringWithCString:systemInfo.machine
+        encoding:NSUTF8StringEncoding];
+    }
+```
+
+-
 
 
 iOS device_name 列表说明
