@@ -55,6 +55,9 @@ iphone列表
 |iphone6s plus |iPhone8,2 | 3DTouch |  2015   |
 |iphone7 |iPhone9,1 |          |  2016   |
 |iphone7 plus |iPhone9,2 |          |  2016   |
+|iphone8 |iPhone10,1 |          |  北京时间2017年9月13日凌晨1点   |
+|iphone8 plus |iPhone10,2 |          |  2017   |
+|iphoneX |iPhone11,1 |          |  2017   |
 
 
 iPod Touch列表
