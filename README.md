@@ -54,7 +54,7 @@ iphone列表
 |iPhone SE | iPhone8,4 |   |     |
 |iphone7 |iPhone9,1 |          |  2016   |
 |iphone7 |iPhone9,3 |          |  2016 美版、台版iPhone 7 |
-|iphone7 plus |iPhone9,2 |     国港行行     |  2016  |
+|iphone7 plus |iPhone9,2 |     国港行     |  2016  |
 |iphone7 plus |iPhone9,4 |     美版、台版     |  2016  |
 |iphone8 |iPhone10,1 |     国行(A1863)、日行(A1906)     |  北京时间2017年9月13日凌晨1点  |
 |iphone8 |iPhone10,2 |     美版(Global/A1905)     |   |
