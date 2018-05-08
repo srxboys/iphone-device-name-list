@@ -42,9 +42,9 @@ iphone列表
 |iphone4 |iPhone3,2 |  不支持3G |  2010   |
 |iphone4s|iPhone4,1 | 有电信版本 |  2010   |
 |iphone5 |iPhone5,1 | 4G网络功能 |  2011   |
-|iphone5 (GSM+CDMA) |iPhone5,2 | 已宣布停产 |  2011   |
+|iphone5 (GSM+CDMA) |iPhone5,2 | 已宣布停产 |  2011  |
 |iphone5c|iPhone5,3 |苹果推出的带有合约版本|  2013   |
-|iphone5c (GSM+CDMA) |iPhone5,4 |苹果推出的带有合约版本|  2013   |
+|iphone5c (GSM+CDMA) |iPhone5,4 |苹果推出的带有合约版本|  2013 |
 |iphone5s CDMA|iPhone6,1 | Touch ID |  2013   |
 |iphone5s (GSM+CDMA)|iPhone6,2 | Touch ID |  2013   |
 |iphone6 |iPhone7,1 | Touch ID |  2014   |
@@ -55,13 +55,13 @@ iphone列表
 |iphone7 |iPhone9,1 |          |  2016   |
 |iphone7 |iPhone9,3 |          |  2016 美版、台版iPhone 7 |
 |iphone7 plus |iPhone9,2 |          |  2016 港行、国行iPhone 7 Plus  |
-|iphone7 plus |iPhone9,4 |          |  2016 美版、台版iPhone 7 Plus   |
+|iphone7 plus |iPhone9,4 |          |  2016 美版、台版iPhone 7 Plus  |
 |iphone8 |iPhone10,1 |          |  北京时间2017年9月13日凌晨1点 国行(A1863)、日行(A1906)iPhone 8  |
 |iphone8 |iPhone10,2 |          |  美版(Global/A1905)iPhone 8 |
 |iphone8 plus |iPhone10,2 |          |  2017 国行(A1864)、日行(A1898)iPhone 8 Plus  |
 |iphone8 plus |iPhone10,5 |          | 美版(Global/A1897)iPhone 8 Plus|
-|iphoneX |iPhone10,3 |          |  2017 国行(A1865)、日行(A1902)iPhone X   |
-|iphoneX |iPhone10,6 |          |  2017 美版(Global/A1901)iPhone X   |
+|iphoneX |iPhone10,3 |          |  2017 国行(A1865)、日行(A1902)iPhone X  |
+|iphoneX |iPhone10,6 |          |  2017 美版(Global/A1901)iPhone X  |
 
 
 iPod Touch列表
@@ -89,7 +89,7 @@ iPad列表
 | iPad2  | iPad2,4  |          |  2011   |
 |iPad Mini (WiFi)| iPad2,5  |          |  2012   |
 |iPad Mini2| iPad2,6  |          |  2013   |
-|iPad Mini3 (GSM+CDMA) | iPad2,7  |          |  2014   |
+|iPad Mini3 (GSM+CDMA) | iPad2,7  |          |  2014  |
 |iPad Mini4| iPad2,8  |          |  2015   |
 | iPad3 (WiFi) | iPad3,1  |          |  2012   |
 | iPad3 (GSM+CDMA) | iPad3,2  |          |  2007   |
