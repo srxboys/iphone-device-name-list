@@ -82,25 +82,52 @@ iPad列表
 |   机型  |device_name| 特殊描述  |   年份   |
 |--------|:--------:| --------:|--------:|
 | iPad1  | iPad1,1  |   已停产  |  2010   |
-| iPad2  | iPad2,1  |          |  2011   |
+| iPad1 3G | iPad1,2  |   已停产  |     |
+| iPad2 (WiFi) | iPad2,1  |          |  2011   |
 | iPad2  | iPad2,2  |          |  2011   |
-| iPad2  | iPad2,3  |          |  2011   |
+| iPad2  (CDMA) | iPad2,3  |          |  2011   |
 | iPad2  | iPad2,4  |          |  2011   |
-|iPad Mini| iPad2,5  |          |  2012   |
+|iPad Mini (WiFi)| iPad2,5  |          |  2012   |
 |iPad Mini2| iPad2,6  |          |  2013   |
-|iPad Mini3| iPad2,7  |          |  2014   |
+|iPad Mini3 (GSM+CDMA) | iPad2,7  |          |  2014   |
 |iPad Mini4| iPad2,8  |          |  2015   |
-| iPad3  | iPad3,1  |          |  2012   |
-| iPad3  | iPad3,2  |          |  2007   |
+| iPad3 (WiFi) | iPad3,1  |          |  2012   |
+| iPad3 (GSM+CDMA) | iPad3,2  |          |  2007   |
 | iPad3  | iPad3,3  |          |  2007   |
-| iPad3  | iPad3,4  |          |  2007   |
-| iPad3  | iPad3,5  |          |  2007   |
-| iPad3  | iPad3,6  |          |  2007   |
-|iPad Air|          |          |         |
-|iPad Air 2|          |          |         |
-|iPad Pro|          |          |         |
-|9.7英寸iPad Pro|          |          |         |
+| iPad4  (WiFi) | iPad3,4  |          |     |
+| iPad4  | iPad3,5  |          |     |
+| iPad4 (GSM+CDMA) | iPad3,6  |          |      |
+| iPad Air (WiFi) | iPad4,1  |          |      |
+| iPad Air (Cellular) | iPad4,2  |          |      |
+| iPad Mini 2 (WiFi) | iPad4,4  |          |      |
+| iPad Mini 2 (Cellular) | iPad4,5  |          |      |
+| iPad Mini 2 | iPad4,6  |          |      |
+| iPad Mini 3 | iPad4,7  |          |      |
+| iPad Mini 3 | iPad4,8  |          |      |
+| iPad Mini 3 | iPad4,9  |          |      |
+| iPad Mini 4 (WiFi) | iPad5,1  |          |      |
+| iPad Mini 4 (LTE) | iPad5,2  |          |      |
+| iPad Air 2 | iPad5,3  |          |      |
+| iPad Air 2 | iPad5,4  |          |      |
+| iPad Pro 9.7 | iPad6,3  |          |      |
+| iPad Pro 9.7 | iPad6,4  |          |      |
+| iPad Pro 12.9 | iPad6,7  |          |      |
+| iPad Pro 12.9 | iPad6,8  |          |      |
+| iPad 5 (WiFi) | iPad6,11  |          |      |
+| iPad Pro 12.9 inch 2nd gen (WiFi) | iPad7,1  |          |      |
+| iPad Pro 12.9 inch 2nd gen (Cellular) | iPad7,2  |          |      |
+| iPad Pro 10.5 inch (WiFi) | iPad7,3  |          |      |
 
+
+Apple TV 列表
+-------
+
+|   机型  |device_name| 特殊描述  |   年份   |
+|--------|:--------:| --------:|--------:|
+| Apple TV 2  | AppleTV2,1  |     |     |
+| Apple TV 3  | AppleTV3,1  |     |     |
+| Apple TV 3  | AppleTV3,2  |     |     |
+| Apple TV 4  | AppleTV5,3  |     |     |
 
 
 如果你有想说的可以 [issues I](https://github.com/srxboys/iphoneDevice_List/issues) 。
