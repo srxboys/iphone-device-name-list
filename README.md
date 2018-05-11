@@ -49,8 +49,8 @@ iphone列表
 |iphone5s (GSM+CDMA)|iPhone6,2 | Touch ID |  2013   |
 |iphone6 |iPhone7,1 | Touch ID |  2014   |
 |iphone6 plus|iPhone7,2 | Touch ID |  2014   |
-|iphone6s |iPhone8,1 | 3DTouch |  2015   |
-|iphone6s plus |iPhone8,2 | 3DTouch |  2015   |
+|iphone6s |iPhone8,1 | 3DTouch(A1700) |  2015   |
+|iphone6s plus |iPhone8,2 | 3DTouch(A1699) |  2015   |
 |iPhone SE | iPhone8,4 |   |     |
 |iphone7 |iPhone9,1 |          |  2016   |
 |iphone7 |iPhone9,3 |          |  2016 美版、台版iPhone 7 |
