@@ -62,6 +62,9 @@ iphone列表
 |iphone8 plus |iPhone10,5 |     美版(Global/A1897)     | |
 |iphoneX |iPhone10,3 |     国行(A1865)、日行(A1902)     |  2017  |
 |iphoneX |iPhone10,6 |     美版(Global/A1901)     |  2017  |
+|iphoneXR | ? |     ?     |  2018   |
+|iphoneXS | ? |     ?     |  2018   |
+|iphoneXS Mac |iPhone11,6 |         |  2018   |
 
 
 iPod Touch列表
