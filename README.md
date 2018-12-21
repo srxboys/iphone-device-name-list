@@ -23,6 +23,12 @@
 
 -
 
+<br>
+
+[ 全面的、详细的、全球iphone设备列表 请看 ](https://www.theiphonewiki.com/wiki/Models)
+
+<br>
+
 
 iOS device_name 列表说明
 ======================
@@ -57,13 +63,13 @@ iphone列表
 |iphone7 plus |iPhone9,2 |     国港行     |  2016  |
 |iphone7 plus |iPhone9,4 |     美版、台版     |  2016  |
 |iphone8 |iPhone10,1 |     国行(A1863)、日行(A1906)     |  北京时间2017年9月13日凌晨1点  |
-|iphone8 |iPhone10,2 |     美版(Global/A1905)     |   |
+|iphone8 |iPhone10,4 |     美版(Global/A1905)     |   |
 |iphone8 plus |iPhone10,2 |     国行(A1864)、日行(A1898)     |  2017  |
 |iphone8 plus |iPhone10,5 |     美版(Global/A1897)     | |
 |iphoneX |iPhone10,3 |     国行(A1865)、日行(A1902)     |  2017  |
 |iphoneX |iPhone10,6 |     美版(Global/A1901)     |  2017  |
-|iphoneXR | ? |     ?     |  2018   |
-|iphoneXS | ? |     ?     |  2018   |
+|iphoneXR | iPhone11,8 |     ?     |  2018   |
+|iphoneXS | iPhone11,2 |     ?     |  2018   |
 |iphoneXS Mac |iPhone11,6 |         |  2018   |
 
 
